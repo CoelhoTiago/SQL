@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">📝 Explicação dos arquivos</h2>
+<h2 align="left">📝</h2>
 
 ###
 
@@ -30,6 +30,6 @@
 
 ###
 
-<p align="left">/ANÁLISE DA SEMANA DE 31 DE MARÇO A 04 DE ABRIL NA NBA.pdf:</p>
+<p align="left">ANÁLISE DA SEMANA DE 31 DE MARÇO A 04 DE ABRIL NA NBA.pdf:<br><br>Neste case, fiz uma análise dos principais acontecidos na semana de 31 de Março a 04 de Abril na NBA. Dessa forma, evidenciei a quantidade de jogos e de jogadores que entraram em quadra, assim como separei a quantidade de jogos por dia. <br><br>Também evidenciei os 05 principais jogadores em cada atributo do jogo (Rebotes, Erros, Pontos e Assistencias). <br><br>Por fim, separei os 05 principais times que mais somaram pontos no período e evidenciei os times com mais vitória. <br><br>Com os insights apresentados, é possível ter uma análise rápida de como foi a semana de 31 de Março a 04 de Abril na NBA, percebendo os principais acontecimentos e seus protagonistas.</p>
 
 ###
